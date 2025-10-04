@@ -1,1 +1,1 @@
-gi
+this is text3.txt file
